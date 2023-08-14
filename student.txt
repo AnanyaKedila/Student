@@ -1,3 +1,4 @@
+//Changes by Prasanna
 CREATE TABLE STUDENT(
 	USN char(4),
 	Sname varchar(25) NOT NULL,
